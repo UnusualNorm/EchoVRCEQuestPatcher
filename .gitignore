@@ -396,3 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Testing
+r15_goldmaster_store.apk
+main.4987566.com.readyatdawn.r15.obb

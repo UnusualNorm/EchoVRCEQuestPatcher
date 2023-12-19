@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoVRCEQuestPatcher", "EchoVRCEQuestPatcher.csproj", "{FCC8B3F9-B4BE-4431-B1F8-128148787277}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCC8B3F9-B4BE-4431-B1F8-128148787277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC8B3F9-B4BE-4431-B1F8-128148787277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC8B3F9-B4BE-4431-B1F8-128148787277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC8B3F9-B4BE-4431-B1F8-128148787277}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFAB3B7E-705A-45E6-8D07-9E35CCC77FF5}
+	EndGlobalSection
+EndGlobal

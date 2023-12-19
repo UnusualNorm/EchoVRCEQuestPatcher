@@ -1,0 +1,8 @@
+{
+  "publisher_lock": "echovrce_quest",
+  "apiservice_host": "https://api.echovrce.com",
+  "configservice_host": "ws://config.echovrce.com/?platform=quest",
+  "loginservice_host": "ws://login.echovrce.com/?hmdserial=",
+  "matchingservice_host": "ws://matchmaker.echovrce.com",
+  "transactionservice_host": "ws://transaction.echovrce.com"
+}
