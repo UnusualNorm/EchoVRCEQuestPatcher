@@ -21,7 +21,7 @@ jobs:
       with:
         dotnet-version: 7.0.x
     - name: Publish
-      run: dotnet publish -c Debug -f net7.0 --self-contained -r win-x86 -o artifact/ /p:PublishSingleFile=true /p:PublishTrimmed=true
+      run: dotnet publish -c Debug -f net7.0 --self-contained -r win-x86 -o artifact/ /p:PublishSingleFile=true /p:PublishTrimmed=true EchoVRCEQuestPatcher.csproj
     - name: Upload artifact
       uses: actions/upload-artifact@v2
       with:
