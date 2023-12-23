@@ -9,12 +9,16 @@
 
   <ItemGroup>
     <None Remove="config.json" />
-    <None Remove="libpnsovr_patch" />
+    <None Remove="libpnsovr_patch_26e9a216a710d42a303346a4ca5b84037ff38250ea725dc7112b055fcacada79" />
+    <None Remove="libpnsovr_patch_2b28373f02acbfb0cbe738e2b43e17d7554ac8275a9905d0e70460f52b024a05" />
+    <None Remove="libpnsovr_patch_840721fb589e2c5296b907d3a870ac24b9e89d859d23d6573641c634d8faa87f" />
   </ItemGroup>
 
   <ItemGroup>
     <EmbeddedResource Include="config.json" />
-    <EmbeddedResource Include="libpnsovr_patch" />
+    <EmbeddedResource Include="libpnsovr_patch_2b28373f02acbfb0cbe738e2b43e17d7554ac8275a9905d0e70460f52b024a05" />
+    <EmbeddedResource Include="libpnsovr_patch_840721fb589e2c5296b907d3a870ac24b9e89d859d23d6573641c634d8faa87f" />
+    <EmbeddedResource Include="libpnsovr_patch_26e9a216a710d42a303346a4ca5b84037ff38250ea725dc7112b055fcacada79" />
   </ItemGroup>
 
   <ItemGroup>
